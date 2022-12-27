@@ -1,8 +1,13 @@
-<h1 align="center"> Cadastro de Veículos - Laravel 9 - Postgres</h1>
+<h1 align="center">CRUD VEICULO</h1>
+
+Os istema consiste em aum pequeno cadastro de vepiculos e suas manutenções.
+Pode servir como base para outros sistemas. Possui opção de cadastro de usuário e autenticação.
+Utiliza as tecnologias PHP, Laravel, JavaScript, PostgresSQL 10, pgAdmin, Docker.
+
 
 # 🛠️ Abrir e rodar o projeto
   O projeto está organizado em 3 containers Docker. Um container para a aplicação (PHP+Laravel). Outro para o banco de dados (PostgresSQL). E o terceiro para o PGAdmin.
-  
+
   A utilização do Postgres e PGAdmin são opcionais. O projeto está estrutura para poder ser utilizado com qualquer banco de dados, basta realizar as configurações necessárias.
 
   Após baixar o projeto, seguir as intgruções abaixo.
