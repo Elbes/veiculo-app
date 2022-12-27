@@ -10,7 +10,7 @@
             <form class="md-float-material form-material" action="{{ url('/usuario-incluir') }}" method="POST">
                 @csrf
                 <div class="text-center">
-                    <img src="{{ url('/assets') }}/images/nova-logo-supera-branca.svg" alt="logo.png">
+                    <img src="{{ url('/assets') }}/images/logo.png" alt="logo.png">
                 </div>
                 <div class="auth-box card">
                     <div class="card-block">
