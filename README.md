@@ -1,16 +1,16 @@
 <h1 align="center">CRUD VEICULO</h1>
 
-Os istema consiste em aum pequeno cadastro de vepiculos e suas manutenções.
+<p align="justify">Os istema consiste em aum pequeno cadastro de vepiculos e suas manutenções.
 Pode servir como base para outros sistemas. Possui opção de cadastro de usuário e autenticação.
-Utiliza as tecnologias PHP, Laravel, JavaScript, PostgresSQL 10, pgAdmin, Docker.
+Utiliza as tecnologias PHP, Laravel, JavaScript, PostgresSQL 10, pgAdmin, Docker.</p>
 
 
 # 🛠️ Abrir e rodar o projeto
-  O projeto está organizado em 3 containers Docker. Um container para a aplicação (PHP+Laravel). Outro para o banco de dados (PostgresSQL). E o terceiro para o PGAdmin.
+ <p align="justify">O projeto está organizado em 3 containers Docker. Um container para a aplicação (PHP+Laravel). Outro para o banco de dados (PostgresSQL). E o terceiro para o PGAdmin.</p>
 
-  A utilização do Postgres e PGAdmin são opcionais. O projeto está estrutura para poder ser utilizado com qualquer banco de dados, basta realizar as configurações necessárias.
+ <p align="justify">A utilização do Postgres e PGAdmin são opcionais. O projeto está estrutura para poder ser utilizado com qualquer banco de dados, basta realizar as configurações necessárias.</p>
 
-  Após baixar o projeto, seguir as intgruções abaixo.
+ <p align="justify">Após baixar o projeto, seguir as intgruções abaixo.</p>
 
 ## Criar os containers Docker
 Acesar o diretório da aplicação por linha de comando e executar:
