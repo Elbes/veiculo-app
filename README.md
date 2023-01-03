@@ -31,11 +31,6 @@ Acessar o container veiculo-app e executar os seguintes comandos:
 ## Padronização do banco de dados
 
 Nomeclatura dos atributos
-<style>
-	table, th, td {
-		border: 1px solid black;
-	}
-</style>
 
 <table>
   <colgroup span="3" class="columns"></colgroup>
