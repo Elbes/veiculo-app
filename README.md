@@ -28,6 +28,34 @@ Acessar o container veiculo-app e executar os seguintes comandos:
 **Popular as tabelas** `php artisan db:seed`
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+## Padronização do banco de dados
+
+Nomeclatura dos atributos
+<style>
+	table, th, td {
+		border: 1px solid black;
+	}
+</style>
+
+<table>
+  <colgroup span="3" class="columns"></colgroup>
+    <thead>
+	  <tr>
+	    <th>Atributo</th>
+	    <th>Descrição</th>
+	    <th>Exemplo</th>
+	  </tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>ID</td>
+	    	<td>Utilizado na numeração das chaves primárias ou nas chaves estrangeiras relacionadas a tabelas auxiliares</td>
+	    	<td>ID_VEICULO (PK), ID_VEICULO(FK)</td>
+		</tr>
+	</tbody>
+</table>
+
+
 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
