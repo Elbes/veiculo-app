@@ -70,32 +70,32 @@ Nomeclatura dos atributos (prefixos)
 		<tr>
 			<td>ID</td>
 	    	<td>Utilizado na numeração das chaves primárias ou nas chaves estrangeiras relacionadas a tabelas auxiliares</td>
-	    	<td>ID_VEICULO (PK), ID_VEICULO(FK)</td>
+	    	<td>ID_VEICULO (PK),<br /> ID_VEICULO(FK)</td>
 		</tr>
 		<tr>
 			<td>NOM</td>
 	    	<td>Utilizado para identificar nomes</td>
-	    	<td>NOM_USUARIO, NOM_MARCA</td>
+	    	<td>NOM_USUARIO,<br /> NOM_MARCA</td>
 		</tr>
 		<tr>
 			<td>NUM</td>
 	    	<td>Utilizado para identificar números</td>
-	    	<td>NUM_CPF, NUM_TELEFONE</td>
+	    	<td>NUM_CPF,<br /> NUM_TELEFONE</td>
 		</tr>
 		<tr>
 			<td>DAT</td>
 	    	<td>Utilizado para identificar datas</td>
-	    	<td>DAT_NASCIMENTO, DAT_CADASTRO</td>
+	    	<td>DAT_NASCIMENTO,<br /> DAT_CADASTRO</td>
 		</tr>
 		<tr>
 			<td>DSC</td>
 	    	<td>Utilizado para identificar descrição</td>
-	    	<td>DSC_SERVICO, DSC_MODELO</td>
+	    	<td>DSC_SERVICO,<br /> DSC_MODELO</td>
 		</tr>
 		<tr>
 			<td>SIT</td>
 	    	<td>Utilizado para identificar situação</td>
-	    	<td>SIT_USUARIO, SIT_MANUTENCAO</td>
+	    	<td>SIT_USUARIO,<br /> SIT_MANUTENCAO</td>
 		</tr>
 	</tbody>
 </table>
