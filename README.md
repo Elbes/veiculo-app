@@ -22,23 +22,33 @@ Serão criados 3 containers (veiculo-app, postgres_container, pgadmin4_container
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Criar as tabelas do banco de dados 'veiculo_db'
 Acessar o container veiculo-app:
+
 `docker exec -it veiculo-app bash`
 
 Criar o arquivo **env**:
+
 `cp .env.example .env`
 
 Configurar a conexão com banco de dados no arquivo .env com os seguintes parâmetros:
+
 `DB_CONNECTION=pgsql
+
 DB_HOST=postgres_container
+
 DB_PORT=5432
+
 DB_DATABASE=veiculo_db
+
 DB_USERNAME=admin
+
 DB_PASSWORD=secret`
 
 Baixar as dependências com composer:
+
 `composer install`
 
 Limpar cache na raiz da aplicação com o comando:
+
 `php artisan cache:clear`
 
 Executar os seguintes comandos:
