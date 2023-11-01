@@ -61,7 +61,7 @@ Nomeclatura dos atributos (prefixos)
   <colgroup span="3" class="columns"></colgroup>
     <thead>
 	  <tr>
-	    <th>Atributo (prefixo)</th>
+	    <th>Atributo</th>
 	    <th>Descrição</th>
 	    <th>Exemplo</th>
 	  </tr>
