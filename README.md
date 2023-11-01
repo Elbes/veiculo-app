@@ -31,17 +31,17 @@ Criar o arquivo **env**:
 
 Configurar a conexão com banco de dados no arquivo .env com os seguintes parâmetros:
 
-`DB_CONNECTION=pgsql
+`DB_CONNECTION=pgsql`
 
-DB_HOST=postgres_container
+`DB_HOST=postgres_container`
 
-DB_PORT=5432
+`DB_PORT=5432`
 
-DB_DATABASE=veiculo_db
+`DB_DATABASE=veiculo_db`
 
-DB_USERNAME=admin
+`DB_USERNAME=admin`
 
-DB_PASSWORD=secret`
+`DB_PASSWORD=secret`
 
 Baixar as dependências com composer:
 
